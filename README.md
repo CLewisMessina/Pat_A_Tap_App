@@ -4,8 +4,8 @@ This web app creates random circles and sounds with any A-Z keypress.
 <figure class="video_container">
   <video controls="false" allowfullscreen="true" poster="#https://raw.githubusercontent.com/CLewisMessina/Pat_A_Tap_App/master/img/PAC.png">
     <source src="https://raw.githubusercontent.com/CLewisMessina/Pat_A_Tap_App/master/img/PAS.webm" type="video/webm">
-    <source src="https://raw.githubusercontent.com/CLewisMessina/Pat_A_Tap_App/master/img/PAS.mp4" type="video/mp4">
-    <source src="https://raw.githubusercontent.com/CLewisMessina/Pat_A_Tap_App/master/img/PAS.ogg" type="video/ogg">
+    <source src="https://raw.githubusercontent.com/CLewisMessina/Pat_A_Tap_App/master/img/PAS3.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/CLewisMessina/Pat_A_Tap_App/master/img/PAS3.ogg" type="video/ogg">
   </video>
 </figure>
 
