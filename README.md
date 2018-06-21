@@ -1,13 +1,13 @@
 ﻿# Pat A Tap App
 This web app creates random circles and sounds with any A-Z keypress.
 
-```html
+
 <div class="video_container">
   <video>
     <source src="https://raw.githubusercontent.com/CLewisMessina/Pat_A_Tap_App/master/img/PAS.webm" type="video/webm">
   </video> 
 </div>
-```
+
 
 
 **Code base:** HTML, CSS, JavaScript
