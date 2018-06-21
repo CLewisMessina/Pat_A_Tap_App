@@ -3,6 +3,8 @@ This web app creates random circles and sounds with any A-Z keypress.
 
 <source type="video/webm" src="https://raw.githubusercontent.com/CLewisMessina/Pat_A_Tap_App/master/img/PAS.webm"></source>
 
+[![Pat-A-Tap App example](https://raw.githubusercontent.com/CLewisMessina/Pat_A_Tap_App/master/img/PAS.webm)]
+
 **Code base:** HTML, CSS, JavaScript
 
 **JS Libraries:** jQuery v3.3.1, Howler 2.0.12, Paper 0.22
