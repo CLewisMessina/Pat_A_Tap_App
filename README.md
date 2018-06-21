@@ -2,7 +2,7 @@
 This web app creates random circles and sounds with any A-Z keypress.
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="#.png">
+  <video controls="true" allowfullscreen="true" poster="#https://raw.githubusercontent.com/CLewisMessina/Pat_A_Tap_App/master/img/PAC.png">
     <source src="https://raw.githubusercontent.com/CLewisMessina/Pat_A_Tap_App/master/img/PAS.webm" type="video/webm">
   </video>
 </figure>
